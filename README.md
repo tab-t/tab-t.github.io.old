@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+个人博客模板--基于Jekyll+Github构建。
+================
 
-You can use the [editor on GitHub](https://github.com/tab-t/tab-t.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+#### 博客地址
+http://www.panxw.com, 支持PC与智能机访问。  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### 使用本项目作为博客模板，仅需如下几步：
+1,首先Fork或Download一份本项目代码。  
+2,修改_config.yaml及about.md文件，以变更个人信息。  
+3,修改_include目录下相关文件，以配置网站统计(analytics.html)，网友评论(comment.html)，右侧栏目(categories.html)等。  
+4,修改CNAME文件，以绑定自己的域名。  
+5,删除_posts下文章，换成你自己的。  
+6,最后，push到你自己的博客Repo~  
 
-### Markdown
+#### 本项目使用了
+1,百度统计的网站统计服务，官网：http://tongji.baidu.com  
+2,不蒜子的页面浏览统计服务，官网：http://busuanzi.ibruce.info  
+3,GitHub Issues作网友评论服务，官网：https://imsun.net/posts/gitment-introduction/  
+4,Google 的Adsense广告，官网：https://www.google.com/adsense/login/zh_CN  
+如需查看或管理网站统计、评论或广告，请自行注册帐号并修改_includes目录下相关文件。  
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### 联系作者
+QQ：85902258  
+邮箱：email(winfirm#163.com)  
+Github：https://github.com/panxw  
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tab-t/tab-t.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**^_^*随喜Star一下本项目吧，谢谢~  
